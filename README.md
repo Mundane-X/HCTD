@@ -1,2 +1,2 @@
 # HCTD
-# A preliminary portion of the code is provided here. The full and final version will be released on the Code Ocean platform before September 29, 2025.
+# A preliminary portion of the code is provided here. The full final version will be published here no later than September 29, 2025.
